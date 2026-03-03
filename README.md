@@ -140,12 +140,10 @@ src/
 <table>
 <tr>
 <td align="center" width="180">
-<a href="https://github.com/yoonho41">
 <img src="https://github.com/yoonho41.png?size=120" width="120" height="120" alt="김윤호" />
 </a><br/>
 <b>PL / 김윤호</b><br/>
 <sub>PM / Full-stack</sub><br/>
-<a href="https://github.com/yoonho41">@yoonho41</a>
 </td>
 
 <td align="center" width="180">
@@ -159,20 +157,17 @@ src/
 
 
 <td align="center" width="180">
-<a href="https://github.com/soyeongjang">
 <img src="https://github.com/soyeongjang.png?size=120" width="120" height="120" alt="장소영" />
 </a><br/>
 <b>장소영</b><br/>
 <sub>Full-stack</sub><br/>
-<a href="https://github.com/soyeongjang">@soyeongjang</a>
 </td>
 
 <td align="center" width="180">
-<a href="https://github.com/JIWoen-code">
 <img src="https://github.com/JIWoen-code.png?size=120" width="120" height="120" alt="박지원" />
 </a><br/>
 <b>박지원</b><br/>
 <sub>Full-stack</sub><br/>
-<a href="https://github.com/JIWoen-code">@JIWoen-code</a>
 </td>
 </tr>
+</table>
